@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rose/code/sdSearch/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+cstring
+-
+cstdlib
+-
+cstdio
+-
+

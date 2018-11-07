@@ -1,0 +1,3 @@
+/home/rose/code/sdSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rose/code/sdSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rose/code/sdSearch/cmake-build-debug/CMakeFiles/sdSearch.dir
